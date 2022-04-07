@@ -12,3 +12,4 @@ happytuesday
 happy wednesday
 good night
 reminder tomorrow test
+today is thursday
